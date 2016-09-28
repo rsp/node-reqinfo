@@ -1,0 +1,24 @@
+{
+  "name": "reqinfo",
+  "version": "0.0.0",
+  "description": "Express.js request info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/node-reqinfo.git"
+  },
+  "keywords": [
+    "express",
+    "req",
+    "request"
+  ],
+  "author": "Rafał Pocztarski <r.pocztarski@gmail.com> (https://rsp.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsp/node-reqinfo/issues"
+  },
+  "homepage": "https://github.com/rsp/node-reqinfo#readme"
+}
